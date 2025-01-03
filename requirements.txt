@@ -1,0 +1,4 @@
+react-router-dom
+axios
+socket.io-client 
+react-hook-form
